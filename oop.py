@@ -46,7 +46,7 @@ class Child(Parent):
         print("bola class")
 
 
-2 multiple
+# 2 multiple
 class Parent1:
     def method1(self):
         print('parent1')
